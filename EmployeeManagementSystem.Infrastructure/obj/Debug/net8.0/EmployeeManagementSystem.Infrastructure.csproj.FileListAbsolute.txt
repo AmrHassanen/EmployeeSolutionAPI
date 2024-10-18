@@ -1,0 +1,17 @@
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\bin\Debug\net8.0\EmployeeManagementSystem.Infrastructure.deps.json
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\bin\Debug\net8.0\EmployeeManagementSystem.Infrastructure.runtimeconfig.json
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\bin\Debug\net8.0\EmployeeManagementSystem.Infrastructure.dll
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\bin\Debug\net8.0\EmployeeManagementSystem.Infrastructure.pdb
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\bin\Debug\net8.0\EmployeeManagementSystem.Core.dll
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\bin\Debug\net8.0\EmployeeManagementSystem.Core.pdb
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\obj\Debug\net8.0\EmployeeManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\obj\Debug\net8.0\EmployeeManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\obj\Debug\net8.0\EmployeeManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\obj\Debug\net8.0\EmployeeManagementSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\obj\Debug\net8.0\EmployeeManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\obj\Debug\net8.0\EmployeeManagementSystem.Infrastructure.csproj.CopyComplete
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\obj\Debug\net8.0\EmployeeManagementSystem.Infrastructure.dll
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\obj\Debug\net8.0\refint\EmployeeManagementSystem.Infrastructure.dll
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\obj\Debug\net8.0\EmployeeManagementSystem.Infrastructure.pdb
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\obj\Debug\net8.0\EmployeeManagementSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Infrastructure\obj\Debug\net8.0\ref\EmployeeManagementSystem.Infrastructure.dll

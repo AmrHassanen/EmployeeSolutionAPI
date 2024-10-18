@@ -1,0 +1,11 @@
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Core\bin\Debug\net8.0\EmployeeManagementSystem.Core.deps.json
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Core\bin\Debug\net8.0\EmployeeManagementSystem.Core.dll
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Core\bin\Debug\net8.0\EmployeeManagementSystem.Core.pdb
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Core\obj\Debug\net8.0\EmployeeManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Core\obj\Debug\net8.0\EmployeeManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Core\obj\Debug\net8.0\EmployeeManagementSystem.Core.AssemblyInfo.cs
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Core\obj\Debug\net8.0\EmployeeManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Core\obj\Debug\net8.0\EmployeeManagementSystem.Core.dll
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Core\obj\Debug\net8.0\refint\EmployeeManagementSystem.Core.dll
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Core\obj\Debug\net8.0\EmployeeManagementSystem.Core.pdb
+C:\Users\ENG Amr\source\repos\KainSoulation\EmployeeManagementSystem.Core\obj\Debug\net8.0\ref\EmployeeManagementSystem.Core.dll
